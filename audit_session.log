@@ -1,0 +1,25 @@
+﻿**********************
+Inicio de la transcripción de Windows PowerShell
+Hora de inicio: 20261020171810
+Nombre de usuario: DESKTOP-J08R123\Felipe
+Usuario RunAs: DESKTOP-J08R123\Felipe
+Nombre de la configuración: 
+Máquina: DESKTOP-J08R123 (Microsoft Windows NT 10.0.26200.0)
+Aplicación host: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "c:\Users\Felipe\AppData\Local\Programs\Microsoft VS Code\7baac39ec3\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+Id. de proceso: 4368
+PSVersion: 5.1.26100.9711
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.9711
+BuildVersion: 10.0.26100.9711
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+La transcripción ha comenzado. El archivo de salida es audit_session.log
+]633;D;0]633;A]633;P;Cwd=C:\x5cUsers\x5cFelipe\x5cDesktop\x5ctrabajo_poo_2\x5cHotelSpringBoot\x5ctaller-docker-semana13PS C:\Users\Felipe\Desktop\trabajo_poo_2\HotelSpringBoot\taller-docker-semana13> ]633;B
+PS>stop-Transcript
+**********************
+Fin de la transcripción de Windows PowerShell
+Hora de finalización: 20261020171859
+**********************
